@@ -1,0 +1,19 @@
+
+$bg_color: black;
+$title: red;
+$button_bg: lime;
+$text_color:purple;
+
+
+body{
+    background-color: $bg_color;
+    color: $title;
+}
+
+p{
+color: $text_color;
+}
+
+button{
+    background-color: $button_bg;
+}
